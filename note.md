@@ -8,4 +8,6 @@ Repository (Repo) //thư mục dự án vd:TESTGIT
 - git status (tất cả các file trong dự )
 - git add [cho phép chuẩn bị lưu lại thời điểm hiện tại của dự]
 - git add (ten_file.c) [lưu file đính]
-- git add .
+- git add . [lưu toàn bộ file]
+- git reset [bỏ cbi lưu]
+- git commit -m'initial commit' [ghi chú trong đây '']
