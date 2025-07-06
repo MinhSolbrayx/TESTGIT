@@ -24,5 +24,5 @@ Remote - nằm trên server
 - git checkout -b {branch name} //tạo 1 branch khác
 
 ------
-git remote add [tên_viết_tắt] [đường_link]: gán đường link vào tên viết tắt
-git push [tên_viết tắt] [tên_nhánh_local]: đẩy lên remote 
+- git remote add [tên_viết_tắt] [đường_link]: gán đường link vào tên viết tắt
+- git push [tên_viết tắt] [tên_nhánh_local]: đẩy lên remote 
