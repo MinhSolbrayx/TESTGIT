@@ -23,6 +23,14 @@ Remote - nằm trên server
 {nhớ git add. git commit xong rồi mới branch khác}
 - git checkout -b {branch name} //tạo 1 branch khác
 
-------
+------ ĐƯA LOCAL LÊN REMOTE
 - git remote add [tên_viết_tắt] [đường_link]: gán đường link vào tên viết tắt
 - git push [tên_viết tắt] [tên_nhánh_local]: đẩy lên remote 
+
+----- TẢI REMOTE VỀ LOCAL
+- truy cập thư mục local
+- git clone [đường_link]: tải về
+- ls : để xem có các mục nào
+- cd [thư_mục]: truy cập vào thư mục
+- code . : mở vs code
+- git push: đẩy lên bình thường  trên remote
